@@ -1,2 +1,2 @@
 # Hello-World
-Let's doing something different.
+Let's do something different.
